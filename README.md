@@ -1,4 +1,4 @@
-![CR-3](https://github.com/user-attachments/assets/485b7ff1-c098-40bf-93b4-00058c8729a9)
+![CR-5](https://github.com/user-attachments/assets/e212d619-61a8-4e74-8b15-283b374c9d3f)
 
 ## 🥁 CarnaCode 2026 - Desafio 05 - Singleton
 
